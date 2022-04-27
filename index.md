@@ -1,11 +1,11 @@
-## Portfolio
+## Jonathan Armas Portfolio
 
 ---
 
-### Category Name 1 
+### Graphic design project 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 blend image](/sample_page)
+<img src="images/blendimages.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
