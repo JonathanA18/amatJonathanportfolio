@@ -4,8 +4,8 @@
 
 ### Graphic design project 
 
-[Project 1 blend image](/sample_page)
-<img src="images/blendimages.png?raw=true"/>
+[Project 1 Ripped effect](/sample_page)
+<img src="images/b2lms_W_vo0.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
