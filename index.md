@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Grafitti effect](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Untitled'1.png?raw=true"/>
 
 ---
 [Project 3 Exposure effect](http://example.com/)
