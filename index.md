@@ -20,8 +20,8 @@ Project 4 Galaxy Cat](http://example.com/)
 <img src="images/Galaxycat.png?raw=true"/>
 
 ---
-Project 5 Galaxy Cat](http://example.com/)
-<img src="images/?raw=true"/>
+Project 5 Guitar](http://example.com/)
+<img src="images/cool.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
