@@ -8,12 +8,12 @@
 <img src="images/b2lms_W_vo0.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Grafitti effect](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Exposure effect](http://example.com/)
+<img src="images/Q64WE8Xo9bs.png?raw=true"/>
 
 ---
 
