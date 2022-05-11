@@ -16,11 +16,11 @@
 <img src="images/Q64WE8Xo9bs.png?raw=true"/>
 
 ---
-Project 4 Galaxy Cat](http://example.com/)
+Project 4 Galaxy Cat]
 <img src="images/Galaxycat.png?raw=true"/>
 
 ---
-Project 5 Guitar](http://example.com/)
+Project 5 Guitar]
 <img src="images/cool.png?raw=true"/>
 
 ---
