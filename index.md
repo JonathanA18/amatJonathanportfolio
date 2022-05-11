@@ -16,12 +16,12 @@
 <img src="images/Q64WE8Xo9bs.png?raw=true"/>
 
 ---
-Project 4 Galaxy Cat]
+Project 4 Galaxy Cat](http://example.com/)
 <img src="images/Galaxycat.png?raw=true"/>
 
 ---
-Project 5 Guitar]
-<img src="images/cool.png?raw=true"/>
+Project 5 Guitar](http://example.com/)
+<img src="images/Cool.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
