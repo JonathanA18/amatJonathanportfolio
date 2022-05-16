@@ -16,11 +16,11 @@
 <img src="images/Q64WE8Xo9bs.png?raw=true"/>
 
 ---
-Project 4 Galaxy Cat]
+[Project 4 Galaxy Cat]
 <img src="images/Galaxycat.png?raw=true"/>
 
 ---
-Project 5 Guitar]
+[Project 5 Guitar](/pdf/https://docs.google.com/presentation/d/1imndRfRc2yKfcLU46FLch_mUD61QbyiS86Nt74YFKqw/edit?usp=sharing)
 <img src="images/Cool.png?raw=true"/>
 
 ---
