@@ -25,7 +25,7 @@
 
 ---
 [Project 6 Pop out art]
-<img src="images/strange.png?raw=true"/>
+<img src="images/drstrange.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
